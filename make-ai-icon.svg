@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Make AI">
+  <rect width="128" height="128" rx="28" fill="#6d38ff"/>
+  <path d="M29 83V45h13l22 24 22-24h13v38H85V64L68 83h-8L43 64v19H29Z" fill="#fff"/>
+  <circle cx="98" cy="31" r="10" fill="#74eee6"/>
+</svg>
