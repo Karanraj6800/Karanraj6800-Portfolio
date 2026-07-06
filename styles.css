@@ -61,7 +61,7 @@ main,
   width: min(44vw, 560px);
   background:
     linear-gradient(90deg, rgba(7, 19, 31, 1), rgba(7, 19, 31, 0.32) 38%, rgba(7, 19, 31, 0.82)),
-    url("assets/karanraj-subtle-bg.jpg") center right / cover no-repeat;
+    url("karanraj-subtle-bg.jpg") center right / cover no-repeat;
   opacity: 0.16;
   filter: grayscale(1) contrast(1.1);
   mix-blend-mode: screen;
@@ -265,7 +265,7 @@ img {
 }
 
 .hero-media {
-  background-image: url("assets/karanraj-hero-clear.jpg");
+  background-image: url("karanraj-hero-clear.jpg");
   background-position: center 30%;
   background-size: cover;
   filter: contrast(1.08) saturate(1.08) brightness(1.03);
