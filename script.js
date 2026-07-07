@@ -125,12 +125,25 @@ const projectDetails = {
     type: "Responsible AI / Research",
     title: "Responsible AI & Business Ethics in Digital Transformation",
     description:
-      "MSc dissertation on how responsible AI practices and business ethics influence digital transformation in India's IT and ITeS sector.",
+      "MSc in Business Analytics dissertation on how responsible AI practices and business ethics influence digital transformation in India's IT and ITeS sector.",
     points: [
       "Designed and analyzed a quantitative survey of 100 IT/ITeS professionals.",
       "Found transparency, data privacy, training, and governance as key responsible AI priorities.",
       "56% identified lack of transparency as the most common AI deployment issue, and 58% wanted AI ethics training.",
       "Recommended sector-specific governance, transparent data practices, ethical impact assessments, and workforce upskilling."
+    ]
+  },
+  "drug-trends": {
+    type: "Healthcare Analytics / R / SQL",
+    title: "Drug Use Trends Analysis in Hospitals",
+    description:
+      "Healthcare analytics project using R and SQLite to analyze drug-related hospital visit data, compare emergency and inpatient settings, and translate findings into resource-planning recommendations.",
+    points: [
+      "Analyzed 13,960 hospital records across 10 variables, including setting, indicator, group, subgroup, time, dates, values, and measures.",
+      "Built a pipeline from CSV inspection and cleaning to date conversion, SQLite integration, exploratory analysis, and visualization.",
+      "Used R, RSQLite, dplyr, lubridate, SQLite, and chart-based analysis to compare hospital settings and detect time-based fluctuations.",
+      "Identified emergency department visits as a higher-pressure area and connected seasonal or setting-level patterns to staffing and prevention planning.",
+      "Recommended stronger emergency department resource allocation, targeted prevention around high-risk periods, and deeper analysis by drug type, demographics, and department."
     ]
   },
   zomato: {
